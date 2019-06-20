@@ -2,7 +2,19 @@ body {
     background-color: bisque;
 }
 
-p {
+h1 {
     color: lightblue;
     font-size: 35px;
+}
+
+.jumbotron  {
+    padding:2rem 1rem;
+    margin-bottom:2rem;
+    background-color:bisque;
+    border-radius:.3rem
+}
+
+.btn-primary {
+    background-color: lightblue;
+    border-color: lightblue;
 }
