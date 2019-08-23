@@ -10,7 +10,7 @@ title:            Peter Geyser <a href="https://ppgeyser.github.io/">
 tagline:          'Developer Portfolio'
 description:      ''
 url:              https://ppgeyser.github.io/
-baseurl:          /
+baseurl:          https://ppgeyser.github.io/
 
 author:
   name:           'Peter Geyser'
