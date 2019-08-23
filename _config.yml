@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Peter Geyser <a href="https://ppgeyser.github.io/">
+title:            Peter Geyser
 tagline:          'Developer Portfolio'
 description:      ''
 url:              https://ppgeyser.github.io/
