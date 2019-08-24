@@ -3,28 +3,29 @@ layout: page
 title: Resume
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Experience
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+MSAI Consulting
+Assistant Operations Manager
+January 2019 - Present
+San Diego, CA
+-Create, implement, and evaluate all human resource department policies,procedures, and structures
+-Manage health insurance programs-Facilitate quarterly and annual employee performance reviews
+-Ensure all employee records are maintained and updated with new hireinformation or changes in employment status
+-Identify the company’s hiring needs and manage the recruitment process toensure it runs smoothly
+-Respond to employees’ queries and resolve issue in a timely and professionalmanner
+-Manage the organization’s employee database and prepare reports
+-Process payroll and manage employee time tracking
+-Assist with the implementation of new processes and procedures
+-Order supplies and maintain inventory levels
+-Interact with IT Company as a vendor manager in order to facilitate repairs, upgrades, and purchases of network and server equipment -Continued to also carry out duties previously held as Administrative andTechnical Support Specialist
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Administrative and Technical Support Specialist
+September 2018 - December 2018
+-Providing technical assistance for questions and problems
+-Resolving problems with networks and other computer systems
+-Diagnosing system errors and other issues-Training other staff members on troubleshooting and diagnosing problems
+-Provide general administrative and clerical support including mailing, scanning, faxing and copying to management
+-Maintain electronic and hard copy filing system
+-Perform data entry and scan documents
+-Prepare and modify documents including correspondence, reports, drafts, memos and emails
