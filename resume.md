@@ -7,11 +7,12 @@ title: Resume
 
 * MSAI Consulting / San Diego, CA / September 2018 to Present
   * Assistant Operations Manager
-    * Create, implement, and evaluate all human resource department policies,procedures, and structures
-    * Manage health insurance programs-Facilitate quarterly and annual employee performance reviews
-    * Ensure all employee records are maintained and updated with new hireinformation or changes in employment status
-    * Identify the company’s hiring needs and manage the recruitment process toensure it runs smoothly
-    * Respond to employees’ queries and resolve issue in a timely and professionalmanner
+    * Create, implement, and evaluate all human resource department policies, procedures, and structures
+    * Manage health insurance programs
+    * Facilitate quarterly and annual employee performance reviews
+    * Ensure all employee records are maintained and updated with new hire information or changes in employment status
+    * Identify the company’s hiring needs and manage the recruitment process to ensure it runs smoothly
+    * Respond to employees’ queries and resolve issue in a timely and professional manner
     * Manage the organization’s employee database and prepare reports
     * Process payroll and manage employee time tracking
     * Assist with the implementation of new processes and procedures
@@ -22,13 +23,14 @@ title: Resume
   * Administrative and Technical Support Specialist
     * Providing technical assistance for questions and problems
     * Resolving problems with networks and other computer systems
-    * Diagnosing system errors and other issues-Training other staff members on troubleshooting and diagnosing problems
+    * Diagnosing system errors and other issues
+    * Training other staff members on troubleshooting and diagnosing problems
     * Provide general administrative and clerical support including mailing, scanning, faxing and copying to management
     * Maintain electronic and hard copy filing system
     * Perform data entry and scan documents
     * Prepare and modify documents including correspondence, reports, drafts, memos and emails
 
-* uBreakiFix | Seattle, WA | September 2015 - August 2018
+* uBreakiFix / Seattle, WA / September 2015 - August 2018
   * Assistant Manager
     * Ensure that Store meets or exceeds sales/profit goals
     * Maintains store staff by assisting in recruiting, selecting, orienting, andtraining employees
@@ -56,5 +58,12 @@ title: Resume
     * Utilize the point of sale system to maintain an accurate record of customerinformation and a real-time status of each repair
     * Maintain the cleanliness and professional appearance of the store
 
-## Education
+## Certifications
+
+* Google IT Support Professional Certificate
+  * Technical Support Fundamentals
+  * Operating Systems and You: Becoming a Power User
+  * The Bits and Bytes of Computer Networking
+  * IT Security: Defense against the digital dark arts
+  * System Administration and IT Infrastructure Services
 
