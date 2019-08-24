@@ -6,7 +6,7 @@ order: 3
 
 ## Experience
 
-[Click here to download complete resume.]({{ site.url }}/public/pgeyser-resume.pdf)
+[Click here to download complete resume.]({{ site.url }}/public/pgeyser-resume.pdf) 
 
 * MSAI Consulting / San Diego, CA / September 2018 to Present
   * Assistant Operations Manager
