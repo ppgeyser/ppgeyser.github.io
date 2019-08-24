@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+order: 1
 ---
 
 My name is Peter and I am a UCSD Coding Bootcamp student. My background in technology started when I was very young. My dad was a programmer at Microsoft and at an early age I was exposed to computers and technology (mostly through the form of computer building, in order to play video games). After I graduated from the University of Washington with a double degree in Psychology (B.Sc.) and Cinema Studies (B.A.), I worked for three years at uBreakiFix Seattle. At uBreakiFix, I was a certified Asurion, Samsung, and Google technician. I did my fair share of hardware repairs on smartphones and tablets, but my primary specialty was computer repairs; both software and hardware.

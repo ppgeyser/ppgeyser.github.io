@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+order: 3
 ---
 
 ## Experience
