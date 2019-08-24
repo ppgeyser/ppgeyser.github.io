@@ -6,7 +6,7 @@ order: 3
 
 ## Experience
 
-<a href="public/assets/Peter Geyser Resume.pdf" download>Click here to download complete resume</a>
+<a href="public/assets/pgeyser-resume.pdf" download>Click here to download complete resume</a>
 
 * MSAI Consulting / San Diego, CA / September 2018 to Present
   * Assistant Operations Manager
