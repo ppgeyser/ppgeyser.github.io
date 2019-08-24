@@ -5,7 +5,7 @@ title: Resume
 
 ## Experience
 
-* MSAI Consulting | San Diego, CA | September 2018 to Present
+* MSAI Consulting / San Diego, CA / September 2018 to Present
   * Assistant Operations Manager
     * Create, implement, and evaluate all human resource department policies,procedures, and structures
     * Manage health insurance programs-Facilitate quarterly and annual employee performance reviews
@@ -27,3 +27,34 @@ title: Resume
     * Maintain electronic and hard copy filing system
     * Perform data entry and scan documents
     * Prepare and modify documents including correspondence, reports, drafts, memos and emails
+
+* uBreakiFix | Seattle, WA | September 2015 - August 2018
+  * Assistant Manager
+    * Ensure that Store meets or exceeds sales/profit goals
+    * Maintains store staff by assisting in recruiting, selecting, orienting, andtraining employees
+    * Maintains operations by coordinating and enforcing operational, andpersonnel policies/procedures.
+    * Identifies current and future customer requirements by establishing rapportwith potential and actual customers
+    * Welcome customers in professional and pleasant manner
+    * Ensures availability of merchandise and services by maintaining andordering inventory
+    * Diagnose/troubleshoot device
+    * Provide recommendations for problem resolution
+    * Provide estimates to customer for repair, replacement according to problemdiagnosis and repair/replacement recommendation
+    * Contributes to team effort by accomplishing related results as needed
+    * Protects employees and customers by providing a safe and clean storeenvironment
+    * Ensure repairs meet uBreakiFix quality standards
+  
+  * Repair Technician
+    * Diagnose, troubleshoot and repair devices
+    * Provide recommendations for problem resolution
+    * Explain complex technical issues to customers in a non-technical, simple tounderstand manner
+    * Provide repair and replacement estimates to customers
+    * Ensure that all repairs meet or exceed uBreakiFix quality standards
+    * Greet customers in a friendly manner and maintain a positive workenvironment
+    * Answer phone calls to the store with a professional, courteous and friendly demeanor
+    * Ensure that customers have an enjoyable experience by providing superiorcustomer service and exceeding customer expectations
+    * Keep track of all devices and inventory while safeguarding all store stock
+    * Utilize the point of sale system to maintain an accurate record of customerinformation and a real-time status of each repair
+    * Maintain the cleanliness and professional appearance of the store
+
+## Education
+
