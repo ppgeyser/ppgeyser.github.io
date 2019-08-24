@@ -67,3 +67,9 @@ title: Resume
   * IT Security: Defense against the digital dark arts
   * System Administration and IT Infrastructure Services
 
+## Education
+
+* University of Washington Class of 2016
+  * B. Sc. - Psychology
+  * B. A. - Cinema Studies
+
