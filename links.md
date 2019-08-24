@@ -4,9 +4,9 @@ title: Links
 order: 4
 ---
 
-Email: peterpgeyser@gmail.com
+Email: <a href="#">peterpgeyser@gmail.com</a>
 
-LinkedIn: www.linkedin.com/in/pgeyser
+LinkedIn: <a href="www.linkedin.com/in/pgeyser">www.linkedin.com/in/pgeyser</a>
 
-Github: https://github.com/ppgeyser
+Github: <a href="https://github.com/ppgeyser">https://github.com/ppgeyser</a>
 
