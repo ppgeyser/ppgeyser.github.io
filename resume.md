@@ -5,6 +5,8 @@ title: Resume
 
 ## Experience
 
+<a href="public/assets/Peter Geyser Resume.pdf" download>Click here to download complete resume</a>
+
 * MSAI Consulting / San Diego, CA / September 2018 to Present
   * Assistant Operations Manager
     * Create, implement, and evaluate all human resource department policies, procedures, and structures
