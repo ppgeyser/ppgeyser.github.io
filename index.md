@@ -8,6 +8,6 @@ My name is Peter and I am a UCSD Coding Bootcamp student. My background in techn
 
 When I moved to San Diego, I went into more of an IT role. At the company I work at now, I am responsible for the maintenance and upkeep of our workstations, sleep diagnostic equipment, network, and servers. 
 
-I quickly realized that I wanted to broaden my horizons, so I enrolled in the UCSD Web Development Bootcamp. THe full stack curriculum covers concepts including HTML5, CSS3, JavaScript, Java, jQuery, Bootstrap, Express.js, React.js, Node.js, Database Theory, Bookshelf.js, MongoDB, MySQL, Command Line, and Git. All of the projects we are currently working on can be found in this portfolio.
+I quickly realized that I wanted to broaden my horizons, so I enrolled in the UCSD Web Development Bootcamp. The full stack curriculum covers concepts including HTML5, CSS3, JavaScript, Java, jQuery, Bootstrap, Express.js, React.js, Node.js, Database Theory, Bookshelf.js, MongoDB, MySQL, Command Line, and Git. All of the projects we are currently working on can be found in this portfolio.
 
 Thank you for taking the time to look through my website. You will see in my projects proficiency in all of the various tools required to be a full stack web developer. If you are interested in learning more, please feel free to reach out to me via my contact page!
