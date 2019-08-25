@@ -4,8 +4,6 @@ title: Experience
 order: 3
 ---
 
-## Experience
-
 [Click here to download resume.]({{ site.url }}/public/pgeyser-resume.pdf) 
 
 * MSAI Consulting / San Diego, CA / September 2018 to Present
