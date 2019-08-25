@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Resume
+title: Curriculum Vitae
 order: 3
 ---
 
 ## Experience
 
-[Click here to download complete resume.]({{ site.url }}/public/pgeyser-resume.pdf) 
+[Click here to download resume.]({{ site.url }}/public/pgeyser-resume.pdf) 
 
 * MSAI Consulting / San Diego, CA / September 2018 to Present
   * Assistant Operations Manager
@@ -61,6 +61,31 @@ order: 3
     * Utilize the point of sale system to maintain an accurate record of customerinformation and a real-time status of each repair
     * Maintain the cleanliness and professional appearance of the store
 
+* Camp Kesem University of Washington Chapter Seattle, WA / September 2013 - August 2016
+  * Volunteer Coordinator
+
+      * Student Recruitment for Committees
+        * Develop and implement student volunteer recruitment strategy
+        * Lead efforts to meet the student volunteer recruitment needs of committees throughout the year
+        * Lead recruitment process for new student coordinators towards the end of the academic year
+        * Plan semester/quarter-end celebrations and any other student recognition events
+
+      * Counselor Recruitment & Selection
+        * Develop and implement counselor recruitment strategy
+        * Develop/update counselor application and all related materials
+        * Develop/update counselor interview packets and organize counselor interviews
+
+      * Counselor Training
+        * Develop and implement counselor training program, including all logistics, planning of sessions, guest facilitators, etc.
+        * Counselor Debriefing
+        * Develop and implement Counselor Debriefing Program.
+
+* Living Filipino American Project / Seattle, WA / March 2015 - June 2016
+  * Undergraduate Research Assistant - University of Washington
+    * Responsible for participant management: entering participants into study, writing checks for survey payments to participants, tracking participant progress, and calling participants who have not finished survey or cashed compensatory checks
+    * Assist Principal Investigator with online survey programming, editing material for the UW Institutional Review Board, and project outreach
+    * Worked exclusively with Microsoft Office Suite and Quickbooks for day-to-day operations
+
 ## Certifications
 
 * Google IT Support Professional Certificate
@@ -71,6 +96,9 @@ order: 3
   * System Administration and IT Infrastructure Services
 
 ## Education
+
+* University of California, San Diego
+  * Full Stack Web Development Bootcamp Certificate of Completion
 
 * University of Washington Class of 2016
   * B. Sc. - Psychology
