@@ -97,10 +97,12 @@ order: 3
 
 ## Education
 
-* University of California, San Diego
+* University of California, San Diego / San Diego, CA / 2019
   * Full Stack Web Development Bootcamp Certificate of Completion
 
-* University of Washington Class of 2016
+* University of Washington / Seattle, WA / 2012 - 2016
   * B. Sc. - Psychology
   * B. A. - Cinema Studies
 
+* Redmond High School / Redmond, WA / 2009 - 2012
+  * High School Diploma
