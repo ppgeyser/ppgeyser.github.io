@@ -15,6 +15,13 @@ Cart to Kitchen is an all-in-one app that allows users to discover and search fo
 
 This project was made for the UCSD Full Stack Web Development Bootcamp using the Spoonacular API, Google Maps/Places API, javascript/jquery/lodash.js, bootstrap, and firebase live databases.
 
+## LIRI Bot
+<img width="720" alt="LIRI Bot Gif" src="https://user-images.githubusercontent.com/50184318/64060295-69556500-cb7f-11e9-9ee0-0728be219e4a.gif">
+
+<a href="https://github.com/ppgeyser/liri-bot">Github</a>
+
+LIRI Bot is a command line node app that takes in parameters to display artists' shows from bandsintown, songs from Spotify, or movie information from OMDB. All inputs and outputs are stored in a log.txt file. This is my sixth project for the UCSD Full Stack Web Developer Bootcamp and showcases my understanding of node.js, constructors, modularization, axios, and npm.
+
 ## Train Scheduler
 <img width="720" alt="Train Scheduler Screenshot" src="https://user-images.githubusercontent.com/50184318/62813046-a0bf7d00-babd-11e9-911f-00f6b8e3eebb.png">
 
