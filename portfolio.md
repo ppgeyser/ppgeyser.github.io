@@ -16,7 +16,7 @@ Cart to Kitchen is an all-in-one app that allows users to discover and search fo
 This project was made for the UCSD Full Stack Web Development Bootcamp using the Spoonacular API, Google Maps/Places API, javascript/jquery/lodash.js, bootstrap, and firebase live databases.
 
 ## LIRI (Language Interpretation and Recognition Interface) Bot
-<img width="720" alt="LIRI Bot Gif" src="https://user-images.githubusercontent.com/50184318/64060295-69556500-cb7f-11e9-9ee0-0728be219e4a.gif">
+<img width="720" alt="LIRI Bot Gif" src="https://user-images.githubusercontent.com/50184318/64060338-f5678c80-cb7f-11e9-9d95-bbfb4a5df5d2.gif">
 
 <a href="https://github.com/ppgeyser/liri-bot">Github</a>
 
