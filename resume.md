@@ -99,8 +99,8 @@ order: 3
   * Full Stack Web Development Bootcamp Certificate of Completion
 
 * University of Washington / Seattle, WA / 2012 - 2016
-  * B. Sc. - Psychology
-  * B. A. - Cinema Studies
+  * Bachelor of Science - Psychology
+  * Bachelor of Arts - Cinema Studies
 
 * Redmond High School / Redmond, WA / 2009 - 2012
   * High School Diploma
