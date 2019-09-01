@@ -4,10 +4,12 @@ title: About Me
 order: 1
 ---
 
-My name is Peter and I am a UCSD Coding Bootcamp student. My background in technology started when I was very young. My dad was a programmer at Microsoft and at an early age I was exposed to computers and technology (mostly through the form of computer building, in order to play video games). After I graduated from the University of Washington with a double degree in Psychology (B.Sc.) and Cinema Studies (B.A.), I worked for three years at uBreakiFix Seattle. At uBreakiFix, I was a certified Asurion, Samsung, and Google technician. I did my fair share of hardware repairs on smartphones and tablets, but my primary specialty was computer repairs; both software and hardware.
+My name is Peter and I am a Full-Stack Web Developer with degrees in psychology and cinema studies. My educational background has helped me to create projects that are focused on being intuitive and aesthetically pleasing. 
 
-When I moved to San Diego, I went into more of an IT role. At the company I work at now, I am responsible for the maintenance and upkeep of our workstations, sleep diagnostic equipment, network, and servers. 
+I am currently enrolled in the Full Stack Web Development Bootcamp through the University of California San Diego, which covers technologies such as HTML5, CSS3, Bootstrap, JavaScript, jQuery, Node.js, MySQL, MongoDB, Express.js, React.js, Command Line, and Git.
 
-I quickly realized that I wanted to broaden my horizons, so I enrolled in the UCSD Web Development Bootcamp. The full stack curriculum covers concepts including HTML5, CSS3, Bootstrap, JavaScript, jQuery, Node.js, MySQL, MongoDB, Express.js, React.js, Command Line, and Git. All of the projects we are currently working on can be found in this portfolio.
+My soft skills include communication, teamwork, organization, multitasking, meeting deadlines and being a fast learner. Among my peers and coworkers, I am known for my humor, work ethic, and meticulousness.
 
-Thank you for taking the time to look through my website. You will see in my projects proficiency in all of the various tools required to be a full stack web developer. If you are interested in learning more, please feel free to reach out to me via my contact page!
+Recently in a group of four, utilizing aspects of agile development, I worked to develop an app which used API calls and Firebase databases to help users to find and save their favorite recipes. Users are also able to add each recipe’s ingredients to a shopping list and then find grocery stores nearby. 
+
+In the future, I look forward to testing my skills and overcoming new challenges in a fast-paced and collaborative work environment that will strengthen my web development abilities.
