@@ -17,6 +17,15 @@ This project was made for the UCSD Full Stack Web Development Bootcamp using the
 
 - - -
 
+## Bamazon (Bootcamp Amazon)
+<img width="720" alt="Bamazon Screenshot" src="https://user-images.githubusercontent.com/50184318/64903875-016e4680-d676-11e9-9c06-a0cea0f7faa7.png">
+
+<a href="https://github.com/ppgeyser/bamazon">Github</a>
+
+Bamazon is a command line node app that simulates a digital storefront. Users can either roleplay as a customer and purchase items or as a manager and view all inventory, low inventory, increase the stock of specific items, and even add new items to inventory. This is my seventh project for the UCSD Full Stack Developer Bootcamp and demonstrates my ability to use CRUD (Create, Read, Update, Delete) functions on a SQL database.
+
+- - -
+
 ## LIRI (Language Interpretation and Recognition Interface) Bot
 <img width="720" alt="LIRI Bot Gif" src="https://user-images.githubusercontent.com/50184318/64060338-f5678c80-cb7f-11e9-9d95-bbfb4a5df5d2.gif">
 
