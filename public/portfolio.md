@@ -17,6 +17,17 @@ This project was made for the UCSD Full Stack Web Development Bootcamp using the
 
 - - -
 
+## EarBuds Friend Finder
+<img width="720" alt="EarBuds Screenshot" src="https://i.imgur.com/ulxGmk7.png">
+
+<a href="https://github.com/ppgeyser/FriendFinder">Github</a>
+<br>
+<a href="https://ear-buds.herokuapp.com/">Demo</a>
+
+EarBuds is an app that determines your music taste compatibility with other people via a survey. Once the survey is completed, you are presented with a person who has a score that is similar to yours. This is my tenth project for the UCSD Full Stack Development Bootcamp, and is my first real full stack app. This project showcases my understanding of front and back end integration through the use of tools such as Node.js, Express.js, as well as all of the regular front end tools such as Bootstrap, Javascript, and Jquery. I also applied concepts such as routing, APIs, and GET/POST requests in order to integrate the front and back end.
+
+- - -
+
 ## Bamazon (Bootcamp Amazon)
 <img width="720" alt="Bamazon Screenshot" src="https://user-images.githubusercontent.com/50184318/64903875-016e4680-d676-11e9-9c06-a0cea0f7faa7.png">
 
