@@ -95,7 +95,7 @@ order: 3
 
 ## Education
 
-* University of California, San Diego / San Diego, CA / 2019
+* University of California San Diego Extension / San Diego, CA / 2019
   * Full Stack Web Development Bootcamp Certificate of Completion
 
 * University of Washington / Seattle, WA / 2012 - 2016
