@@ -17,6 +17,22 @@ This project was made for the UCSD Full Stack Web Development Bootcamp using the
 
 - - -
 
+## PRO-Pal
+<img width="720" alt="PRO-Pal Screenshot" src="https://user-images.githubusercontent.com/50184318/66693165-eaae1600-ec5a-11e9-8c33-3fad86d6ccf5.png">
+
+<a href="https://github.com/ppgeyser/PRO-pals">Github</a>
+<br>
+<a href="https://pro-pals.herokuapp.com/">Demo</a>
+
+PRO-Pal is a to-do list app that helps you to get a hold of your procrastination by adding consequences to your actions. Your PRO-pal starts with nine lives. Whenever you add a task to your to-do list, you are required to insert a time by which you expect to be done with your task. Complete this task later than your goal time, and your pal loses a life!
+
+This incentivizes you to break tasks up into smaller, easier-to-accomplish subtasks so that it’s easier to not lose lives. This also makes consequences of procrastination more immediate.
+
+This app is the second group project for the UCSD Full Stack Development Bootcamp. It is a full stack app which follows the Model View Controller Framework and uses MySQL/Sequelize, Express.js, Express-Handlebars, and Node.js. It also uses an external library called Tempus Dominus which is a Bootstrap stylized datepicker. This app showcases our combined knowledge of integrating front and back end technologies, concepts, and frameworks.
+
+
+- - -
+
 ## Eat-Da-Burger
 <img width="720" alt="Eat-Da-Burger Screenshot" src="https://i.imgur.com/ke2YnLI.png">
 
@@ -25,8 +41,6 @@ This project was made for the UCSD Full Stack Web Development Bootcamp using the
 <a href="https://eat-da-burger-ppg.herokuapp.com/">Demo</a>
 
 Eat-Da-Burger is a burger eating simulator that allows the user to select which burger to eat from a list of choices. Once they eat the burger, it is consumed and moved to a separate list for devoured burgers. They are unable to eat the burger for a second time once it has been eaten. However, users are able to add more burgers, ready for consumption, to the available list. This is my eleventh project for the UCSD Full Stack Development Bootcamp, and is my second full stack app. This project showcases my understanding of front and back end integration through the use of tools such as Node.js, Express.js, Express-Handlebars, as well as all of the regular front end tools such as Bootstrap, Javascript, and Jquery. I built upon my foundation of knowledge from my last assignment, but also built my own ORM, and separated all of my code out so that it follows the MVC model.
-
-- - -
 
 ## EarBuds Friend Finder
 <img width="720" alt="EarBuds Screenshot" src="https://i.imgur.com/ulxGmk7.png">
