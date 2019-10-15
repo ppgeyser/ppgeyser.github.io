@@ -7,9 +7,9 @@ order: 2
 ## Cart to Kitchen
 <img width="720" alt="Cart to Kitchen Screenshot" src="https://user-images.githubusercontent.com/50184318/63632473-6ee50500-c5eb-11e9-8642-502ed8ff1290.png">
 
-<a href="https://github.com/Zuzanav/cart-to-kitchen">Github</a>
+<a href="https://github.com/ppgeyser/cart-to-kitchen">Github</a>
 <br>
-<a href="https://zuzanav.github.io/cart-to-kitchen/index.html">Demo</a>
+<a href="https://ppgeyser.github.io/cart-to-kitchen/">Demo</a>
 
 Cart to Kitchen is an all-in-one app that allows users to discover and search for recipes, save recipes to favorites, add ingredients from specific recipes to a grocery list, and search for nearby grocery stores with Google maps integrated functionality.
 
