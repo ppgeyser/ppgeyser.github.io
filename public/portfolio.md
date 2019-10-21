@@ -48,7 +48,7 @@ Eat-Da-Burger is a burger eating simulator that allows the user to select which 
 This is my second full stack web app. This project showcases my understanding of front and back end integration through the use of tools such as Node.js, Express.js, Express-Handlebars, as well as all of the regular front end tools such as Bootstrap, Javascript, and Jquery. I built upon my foundation of knowledge from my last project, but also built my own ORM, and separated all of my code out so that it follows the MVC model.
 
 ## EarBuds Friend Finder
-<img width="720" alt="EarBuds Screenshot" src="https://i.imgur.com/ulxGmk7.png">
+<img width="720" alt="EarBuds Screenshot" src="https://i.imgur.com/6Ar99tf.jpg">
 
 <a href="https://github.com/ppgeyser/FriendFinder">Github</a>
 <br>
