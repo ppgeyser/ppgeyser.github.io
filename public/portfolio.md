@@ -32,6 +32,18 @@ This incentivizes you to break tasks up into smaller, easier-to-accomplish subta
 
 I built this app with the help of Dan Abana, Shane Cleland, and Divya Enjamuri. It is a full stack app which follows the Model View Controller Framework and uses MySQL/Sequelize, Express.js, Express-Handlebars, and Node.js. It also uses an external library called Tempus Dominus which is a Bootstrap stylized datepicker. This app showcases our combined knowledge of integrating front and back end technologies, concepts, and frameworks.
 
+- - -
+
+## Pitchfork Scraper
+<img width="720" alt="PRO-Pal Screenshot" ssrc="https://user-images.githubusercontent.com/50184318/67826498-e4f16680-fa89-11e9-8861-c7dcb99056d1.png">
+
+<a href="https://github.com/ppgeyser/pitchfork-scraper">Github</a>
+<br>
+<a href="https://p4k-scraper.herokuapp.com/">Demo</a>
+
+This web scraper grabs album reviews from pitchfork.com, the music review website. Each scraped review includes the album art, artist, and album name. Users are able to press the "Scrape" button to fetch new articles. Users are also able to add comments to each review, see other comments left by other users, and delete comments.
+
+This is my third full stack web app. This project showcases my understanding of front and back end integration through the use of tools such as Node.js, Express.js, Express-Handlebars, as well as all of the regular front end tools such as Bootstrap, Javascript, and Jquery. I built upon my foundation of knowledge from my last project, but used a MongoDB database while also following the MVC code design paradigm.
 
 - - -
 
@@ -46,6 +58,8 @@ I built this app with the help of Dan Abana, Shane Cleland, and Divya Enjamuri. 
 Eat-Da-Burger is a burger eating simulator that allows the user to select which burger to eat from a list of choices. Once they eat the burger, it is consumed and moved to a separate list for devoured burgers. They are unable to eat the burger for a second time once it has been eaten. However, users are able to add more burgers, ready for consumption, to the available list. 
 
 This is my second full stack web app. This project showcases my understanding of front and back end integration through the use of tools such as Node.js, Express.js, Express-Handlebars, as well as all of the regular front end tools such as Bootstrap, Javascript, and Jquery. I built upon my foundation of knowledge from my last project, but also built my own ORM, and separated all of my code out so that it follows the MVC model.
+
+- - -
 
 ## EarBuds Friend Finder
 <img width="720" alt="EarBuds Screenshot" src="https://i.imgur.com/6Ar99tf.jpg">
