@@ -35,7 +35,7 @@ I built this app with the help of Dan Abana, Shane Cleland, and Divya Enjamuri. 
 - - -
 
 ## Pitchfork Scraper
-<img width="720" alt="PRO-Pal Screenshot" ssrc="https://user-images.githubusercontent.com/50184318/67826498-e4f16680-fa89-11e9-8861-c7dcb99056d1.png">
+<img width="720" alt="Pitchfork Scraper Screenshot" src="https://user-images.githubusercontent.com/50184318/67826498-e4f16680-fa89-11e9-8861-c7dcb99056d1.png">
 
 <a href="https://github.com/ppgeyser/pitchfork-scraper">Github</a>
 <br>
