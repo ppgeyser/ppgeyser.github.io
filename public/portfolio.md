@@ -36,7 +36,7 @@ I built this app with the help of Dan Abana, Shane Cleland, and Divya Enjamuri. 
 
 ## Clicky Game
 
-<img width="720" alt="Clicky Game Screenshot" src="https://i.imgur.com/PN2H9Qx.jpg">
+<img width="720" alt="Clicky Game Screenshot" src="https://user-images.githubusercontent.com/50184318/68090762-8252ee80-fe2c-11e9-9732-56c85d76de83.png">
 
 <a href="https://github.com/ppgeyser">Github</a>
 <br>
