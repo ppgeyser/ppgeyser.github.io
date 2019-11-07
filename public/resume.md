@@ -33,17 +33,17 @@ order: 3
 
 * uBreakiFix / Seattle, WA / September 2015 - August 2018
   * Assistant Manager
-    * Ensure that Store meets or exceeds sales/profit goals
-    * Maintains store staff by assisting in recruiting, selecting, orienting, andtraining employees
-    * Maintains operations by coordinating and enforcing operational, andpersonnel policies/procedures.
-    * Identifies current and future customer requirements by establishing rapportwith potential and actual customers
+    * Ensure that store meets or exceeds sales/profit goals
+    * Maintains store staff by assisting in recruiting, selecting, orienting, and training employees
+    * Maintains operations by coordinating and enforcing operational, and personnel policies/procedures.
+    * Identifies current and future customer requirements by establishing rapport with potential and actual customers
     * Welcome customers in professional and pleasant manner
     * Ensures availability of merchandise and services by maintaining andordering inventory
     * Diagnose/troubleshoot device
     * Provide recommendations for problem resolution
-    * Provide estimates to customer for repair, replacement according to problemdiagnosis and repair/replacement recommendation
+    * Provide estimates to customer for repair, replacement according to problem diagnosis and repair/replacement recommendation
     * Contributes to team effort by accomplishing related results as needed
-    * Protects employees and customers by providing a safe and clean storeenvironment
+    * Protects employees and customers by providing a safe and clean store environment
     * Ensure repairs meet uBreakiFix quality standards
   
   * Repair Technician
