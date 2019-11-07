@@ -38,7 +38,7 @@ order: 3
     * Maintains operations by coordinating and enforcing operational, and personnel policies/procedures.
     * Identifies current and future customer requirements by establishing rapport with potential and actual customers
     * Welcome customers in professional and pleasant manner
-    * Ensures availability of merchandise and services by maintaining andordering inventory
+    * Ensures availability of merchandise and services by maintaining and ordering inventory
     * Diagnose/troubleshoot device
     * Provide recommendations for problem resolution
     * Provide estimates to customer for repair, replacement according to problem diagnosis and repair/replacement recommendation
