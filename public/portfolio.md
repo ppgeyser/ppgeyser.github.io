@@ -34,6 +34,21 @@ I built this app with the help of Dan Abana, Shane Cleland, and Divya Enjamuri. 
 
 - - -
 
+## Google Books React Search
+
+<img width="720" alt="Google Books React Search Screenshot" src="https://user-images.githubusercontent.com/50184318/68524819-0ae3eb80-0280-11ea-9420-00e113c6ed04.png">
+
+<a href="https://github.com/ppgeyser/google-book-react">Github</a>
+<br>
+<a href="https://react-gbooks-search.herokuapp.com/">Demo</a>
+
+This Google Books React Search app has two different sections. The search section allows a user to search for books listed in Google Books via the Google Books API. The results are then populated. Each result includes the book title, author's name, description, book cover, and link to see the book in Google Books. Users also have an option to save books they are interested in. The saved section allows users to look through the books they have saved. They are also able to delete any books they would no longer like to save.
+
+This is my first full MERN (MongoDB, Express, React, Node) app. This project showcases my understanding of more intermediate React concepts such as React routing, in order to create an SPA (single page application). This app also follows industry best-practices, such as separating my front-end files into a client folder and keeping the rest of the backend node.js and express.js files in the root of my application directory.
+
+- - -
+
+
 ## Clicky Game
 
 <img width="720" alt="Clicky Game Screenshot" src="https://user-images.githubusercontent.com/50184318/68090762-8252ee80-fe2c-11e9-9732-56c85d76de83.png">
