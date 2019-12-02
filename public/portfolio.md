@@ -4,6 +4,17 @@ title: Portfolio
 order: 2
 ---
 
+## Plant Parenthood
+<img width="720" alt="Plant Parenthood Screenshot" src="https://user-images.githubusercontent.com/50184318/69924641-4fb70880-1461-11ea-8f33-ccd1ba78d755.png">
+
+<a href="https://github.com/ppgeyser/plant-parenthood">Github</a>
+<br>
+<a href="https://plantparenthood.herokuapp.com/">Demo</a>
+
+Plant Parenthood is an app centered around new plant parents looking to adopt a plant into their life, or expert plant parents looking for a way to keep track of their needs. Features include plant discovery, watering schedule, social media image feed, and manual plant entry.
+
+This project was built with the help of Devin Steweart, Zuzana Volny, and Jannah Nieves. It is a full stack MERN (Mongo, Express, React, Node) App that also utilizes firebase cloud storage and auth0 user authentication.
+
 ## Cart to Kitchen
 <img width="720" alt="Cart to Kitchen Screenshot" src="https://user-images.githubusercontent.com/50184318/63632473-6ee50500-c5eb-11e9-8642-502ed8ff1290.png">
 
