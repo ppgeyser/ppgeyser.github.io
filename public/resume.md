@@ -49,14 +49,14 @@ order: 3
   * Repair Technician
     * Diagnose, troubleshoot and repair devices
     * Provide recommendations for problem resolution
-    * Explain complex technical issues to customers in a non-technical, simple tounderstand manner
+    * Explain complex technical issues to customers in a non-technical, simple to understand manner
     * Provide repair and replacement estimates to customers
     * Ensure that all repairs meet or exceed uBreakiFix quality standards
-    * Greet customers in a friendly manner and maintain a positive workenvironment
+    * Greet customers in a friendly manner and maintain a positive work environment
     * Answer phone calls to the store with a professional, courteous and friendly demeanor
-    * Ensure that customers have an enjoyable experience by providing superiorcustomer service and exceeding customer expectations
+    * Ensure that customers have an enjoyable experience by providing superior customer service and exceeding customer expectations
     * Keep track of all devices and inventory while safeguarding all store stock
-    * Utilize the point of sale system to maintain an accurate record of customerinformation and a real-time status of each repair
+    * Utilize the point of sale system to maintain an accurate record of customer information and a real-time status of each repair
     * Maintain the cleanliness and professional appearance of the store
 
 * Camp Kesem University of Washington Chapter Seattle, WA / September 2013 - August 2016
