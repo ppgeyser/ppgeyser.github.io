@@ -73,7 +73,10 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
-  margin-right: 25px;
+}
+
+.icon {
+  margin-right: 15px;
 }
 
 /* About section */
