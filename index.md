@@ -4,7 +4,7 @@ title: About Me
 order: 1
 ---
 
-My name is Peter and I am a Full-Stack Web Developer with degrees in psychology and cinema studies. My educational background has helped me to create projects that are focused on being intuitive and aesthetically pleasing. 
+My name is Peter and I am a Full-Stack Web Developer that comes from a background of working in IT and consumer electronics repairs.
 
 Completion of the University of California San Diego Full Stack Web Development Bootcamp has given me skills in technologies such as HTML5, CSS3, Bootstrap, JavaScript, jQuery, Node.js, MySQL, MongoDB, Express.js, React.js, Command Line, and Git.
 
