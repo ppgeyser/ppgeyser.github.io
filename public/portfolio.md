@@ -17,11 +17,12 @@ This project was built with the help of Devin Steweart, Zuzana Volny, and Jannah
 
 I was responsible for setting up the backend of this app and building out some React components. Specific tasks included: 
 
-- Building reusable React components that served as information display cards
+- Building reusable React components such as as information display cards, buttons, and image cards.
 - Setting up MongoDB using Mongoose to build the schema and controller
 - Constructing API routes for all CRUD operations using Express
 - Creating frontend API calls using Axios
 - Ensuring that all React components were able to properly successfully make API calls in order to execute CRUD operations
+- Contributing to the functionality of the social media image feed, which allows users to upload their own images and to see other users' images.
 - Configuring environmental variables for development and production environments for auth0
 - Deploying application to Heroku
 
