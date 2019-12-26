@@ -35,6 +35,8 @@ I was responsible for setting up the backend of this app and building out some R
 
 Cart to Kitchen is an all-in-one app that allows users to discover and search for recipes, save recipes to favorites, add ingredients from specific recipes to a grocery list, and search for nearby grocery stores with Google maps integrated functionality.
 
+I built the entire favorites page, including all javascript functionality. I also contributed in the building of the landing page by programming the functionality of the results cards that populates randomly upon page load, or populates results based on the terms entered into the search field.
+
 This front end project was built with the help of Devin Steweart, Zuzana Volny, and Divya Enjamuri using the Spoonacular API, Google Maps/Places API, javascript/jquery/lodash.js, bootstrap, and firebase live databases. 
 
 - - -
