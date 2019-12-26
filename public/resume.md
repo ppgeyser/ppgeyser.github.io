@@ -17,6 +17,7 @@ order: 3
     * Manage the organization’s employee database and prepare reports
     * Process payroll and manage employee time tracking
     * Assist with the implementation of new processes and procedures
+    * Assist business owner by reviewing and synthesizing contracts into digestible briefs.
     * Order supplies and maintain inventory levels
     * Interact with IT Company as a vendor manager in order to facilitate repairs, upgrades, and purchases of network and server equipment
     * Continued to also carry out duties previously held as Administrative and Technical Support Specialist
