@@ -15,6 +15,16 @@ Plant Parenthood is an app centered around new plant parents looking to adopt a 
 
 This project was built with the help of Devin Steweart, Zuzana Volny, and Jannah Nieves. It is a full stack MERN (Mongo, Express, React, Node) App that also utilizes firebase cloud storage and auth0 user authentication.
 
+I was responsible for setting up the backend of this app and building out some React components. Specific tasks included: 
+
+- Building reusable React components that served as information display cards
+- Setting up MongoDB using Mongoose to build the schema and controller
+- Constructing API routes for all CRUD operations using Express
+- Creating frontend API calls using Axios
+- Ensuring that all React components were able to properly successfully make API calls in order to execute CRUD operations
+- Configuring environmental variables for development and production environments for auth0
+- Deploying application to Heroku
+
 ## Cart to Kitchen
 <img width="720" alt="Cart to Kitchen Screenshot" src="https://user-images.githubusercontent.com/50184318/63632473-6ee50500-c5eb-11e9-8642-502ed8ff1290.png">
 
