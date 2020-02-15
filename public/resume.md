@@ -4,7 +4,24 @@ title: Experience
 order: 3
 ---
 
-[Click here to download resume.]({{ site.url }}/public/pgeyser-resume.pdf) 
+[Click here to download resume.]({{ site.url }}/public/pgeyser-resume.pdf)
+
+* Smorgborg / Las Vegas, NV - Remote / December 2019 to Present
+  * Junior Developer
+    * Responsible for building and maintaining efficient JavaScript React UI components and applications
+    * Implement solutions across the entire technology stack ranging anywhere from the UI to back-end services
+    * Contribute to the team by employing best practices in an Agile programming environment and utilizing software version control tools such as Git and Zenhub
+    * Apply critical thinking and problem solving with an emphasis on building quality software
+    * Collaborate with the UX designers, lead developers, and other team members to interpret feature requests and develop pragmatic and effective technical solutions
+
+    * Technology Stack:
+      * React
+      * MongoDB
+      * GraphQL
+      * Cordova
+      * Express
+      * Apollo
+      * Ant Design
 
 * MSAI Consulting / San Diego, CA / September 2018 to Present
   * Assistant Operations Manager
