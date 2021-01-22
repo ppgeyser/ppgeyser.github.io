@@ -6,13 +6,13 @@ order: 3
 
 [Click here to download resume.]({{ site.url }}/public/pgeyser-resume.pdf)
 
-* OneVigor / San Diego, CA - Part-time / May 2020 to Present
+* Epik Systems / Carlsbad, CA - Full Time / April 2020 to Present
+  * Software Engineer
+    * Full-time position with Carlsbad-based technology consulting firm/agency. Primary tasks include building out proof-of-concept rapid-prototypes as well as maintenance of and iterative changes to pre-existing client applications. Exposed to a wide variety of technology including PHP, Shopify, GraphQL, Typescript and Ruby on Rails depending on the specific environment of the client. Apply fast learning, multitasking, communication, and organization abilities.
+
+* OneVigor / San Diego, CA - Part-time / May 2020 to September 2020
   * Software Quality Assurance Tester
     * Part-time position at San Diego-based company specializing in content distribution, ad insertion, and digital media management. Perform a variety of tests such as regression, integration, platform, and performance testing to confirm stability of software systems. Report and track bugs using Testrail and Jira. Collaborate with Product, QA, and Dev teams working with responsive web applications
-
-* Epik Systems / Carlsbad, CA - Contrcat / April 2020 to Present
-  * Frontend Developer
-    * Contract position with Carlsbad-based technology consulting firm. Primary tasks include building out proof-of-concept rapid-prototypes as well as maintenance of and iterative changes to pre-existing code for clients. Exposed to a wide variety of technology including PHP, Shopify, GraphQL and Typescript, depending on the specific environment of the client. Apply fast learning, multitasking, communication, and organization abilities.
 
 * Smorgborg / Las Vegas, NV - Remote / December 2019 to March 2020
   * Junior Developer
